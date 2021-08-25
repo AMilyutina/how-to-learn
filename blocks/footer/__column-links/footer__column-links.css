@@ -1,0 +1,14 @@
+.footer__column-links {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 0 16px 0;
+  padding: 0;
+  transition: 2s;
+}
+
+.footer__column-links:hover {
+  opacity: 0.3;
+}

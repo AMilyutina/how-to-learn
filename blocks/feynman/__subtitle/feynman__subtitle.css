@@ -1,0 +1,11 @@
+.feynman__subtitle {
+  margin-top: 70px;
+  margin-bottom: 0;
+  font-size: 36px;
+  z-index: 9;
+  line-height: 51px;
+  font-weight: normal;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
